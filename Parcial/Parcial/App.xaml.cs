@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -14,6 +14,8 @@ namespace Parcial
             InitializeComponent();
 
             MainPage = new Parcial.MainPage();
+            //Register = new Parcial.Register();
+
         }
 
         protected override void OnStart()
