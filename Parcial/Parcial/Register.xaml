@@ -3,6 +3,40 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Parcial.Register">
     <ContentPage.Content>
-        
+        <StackLayout Orientation="Vertical" Padding="10,12" Margin="10,0,10,0">
+            <StackLayout Orientation="Vertical"  Margin="0,5,0,0">
+                <Label Text="SING UP FORM" FontAttributes="Bold" FontSize="18" HorizontalOptions="CenterAndExpand" />
+            </StackLayout>
+
+            <StackLayout Orientation="Vertical">
+                <Label Text="First name" HorizontalOptions="FillAndExpand" Margin="0,5,0,0" />
+                <Entry Placeholder="Write your first name here" AbsoluteLayout.LayoutFlags="PositionProportional"/>
+
+                <Label Text="Last name" HorizontalOptions="FillAndExpand" Margin="0,5,0,0" />
+                <Entry Placeholder="Write your last name here" AbsoluteLayout.LayoutFlags="PositionProportional" />
+
+                <Label Text="Email" HorizontalOptions="FillAndExpand" Margin="0,5,0,0" />
+                <Entry Placeholder="Write your email here" AbsoluteLayout.LayoutFlags="PositionProportional"/>
+
+                <Label Text="Password" HorizontalOptions="FillAndExpand" Margin="0,5,0,0" />
+                <Entry Placeholder="Write your password here" AbsoluteLayout.LayoutFlags="PositionProportional" />
+
+                <Label Text="Confirm password" HorizontalOptions="FillAndExpand" Margin="0,5,0,0" />
+                <Entry Placeholder="Write your password here" AbsoluteLayout.LayoutFlags="PositionProportional" />
+
+            </StackLayout>
+
+            <StackLayout Orientation="Vertical">
+                <Button HorizontalOptions="FillAndExpand" Text="REGISTER" BackgroundColor="#CDDC39" Margin="0,0,10,0" />
+                <Button HorizontalOptions="FillAndExpand" Text="I already have an account" BackgroundColor="#FFA000" Margin="0,0,10,0"  />
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal" VerticalOptions="Start" HorizontalOptions="Center" >
+                <Image Source="facebook.png" HorizontalOptions="Center" VerticalOptions="Start" Margin="0,20,0,20" WidthRequest="40" HeightRequest="40"/>
+                <Image Source="googlePlus.png" HorizontalOptions="Center" VerticalOptions="Start" Margin="0,20,0,20" WidthRequest="40" HeightRequest="40"/>
+                <Image Source="twitter.png" HorizontalOptions="Center" VerticalOptions="Start" Margin="0,20,0,20" WidthRequest="40" HeightRequest="40"/>
+            </StackLayout>
+
+        </StackLayout>
     </ContentPage.Content>
 </ContentPage>

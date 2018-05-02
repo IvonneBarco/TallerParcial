@@ -13,7 +13,7 @@ namespace Parcial
         {
             InitializeComponent();
 
-            MainPage = new Parcial.ShoppingCart();
+            MainPage = new Parcial.Register();
 
         }
 
