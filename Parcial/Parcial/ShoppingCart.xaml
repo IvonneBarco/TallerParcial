@@ -1,10 +1,78 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Parcial.ShoppingCart">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin Forms!" />
+        <StackLayout Orientation="Vertical">
+            <StackLayout Orientation="Vertical">
+                <Image Source="banner.png"></Image>
+            </StackLayout>
+
+            <StackLayout Orientation="Vertical" Margin="15,10,15,10">
+                <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand" Margin="0,10,0,0">
+                    <StackLayout Orientation="Vertical" WidthRequest="200">
+                        <Label Text="CAFE ARTESANAL" FontAttributes="Bold" />
+                        <Label Text="Descripción" />
+                        <Label Text="$2000 COP." FontAttributes="Bold" TextColor="Green"/>
+                    </StackLayout>
+                    <StackLayout Orientation="Vertical" WidthRequest="70" HorizontalOptions="FillAndExpand">
+                        <Image Source="coffee.png" WidthRequest="50" HeightRequest="50"/>
+                    </StackLayout>
+                    <StackLayout Orientation="Vertical" HorizontalOptions="FillAndExpand">
+                        <Image Source="car.png" WidthRequest="50" HeightRequest="50"/>
+                    </StackLayout>
+                </StackLayout>
+
+                <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand" Margin="0,10,0,0">
+                    <StackLayout Orientation="Vertical" WidthRequest="200">
+                        <Label Text="CAFE ARTESANAL" FontAttributes="Bold" />
+                        <Label Text="Descripción" />
+                        <Label Text="$2000 COP." FontAttributes="Bold" TextColor="Green"/>
+                    </StackLayout>
+                    <StackLayout Orientation="Vertical" WidthRequest="70" HorizontalOptions="FillAndExpand">
+                        <Image Source="coffee.png" WidthRequest="50" HeightRequest="50"/>
+                    </StackLayout>
+                    <StackLayout Orientation="Vertical" HorizontalOptions="FillAndExpand">
+                        <Image Source="car.png" WidthRequest="50" HeightRequest="50"/>
+                    </StackLayout>
+                </StackLayout>
+
+                <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand" Margin="0,10,0,0">
+                    <StackLayout Orientation="Vertical" WidthRequest="200">
+                        <Label Text="CAFE ARTESANAL" FontAttributes="Bold" />
+                        <Label Text="Descripción" />
+                        <Label Text="$2000 COP." FontAttributes="Bold" TextColor="Green"/>
+                    </StackLayout>
+                    <StackLayout Orientation="Vertical" WidthRequest="70" HorizontalOptions="FillAndExpand">
+                        <Image Source="coffee.png" WidthRequest="50" HeightRequest="50"/>
+                    </StackLayout>
+                    <StackLayout Orientation="Vertical" HorizontalOptions="FillAndExpand">
+                        <Image Source="car.png" WidthRequest="50" HeightRequest="50"/>
+                    </StackLayout>
+                </StackLayout>
+
+                <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand" Margin="0,10,0,0">
+                    <StackLayout Orientation="Vertical" WidthRequest="200">
+                        <Label Text="CAFE ARTESANAL" FontAttributes="Bold" />
+                        <Label Text="Descripción" />
+                        <Label Text="$2000 COP." FontAttributes="Bold" TextColor="Green"/>
+                    </StackLayout>
+                    <StackLayout Orientation="Vertical" WidthRequest="70" HorizontalOptions="FillAndExpand">
+                        <Image Source="coffee.png" WidthRequest="50" HeightRequest="50"/>
+                    </StackLayout>
+                    <StackLayout Orientation="Vertical" HorizontalOptions="FillAndExpand">
+                        <Image Source="car.png" WidthRequest="50" HeightRequest="50"/>
+                    </StackLayout>
+                </StackLayout>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal" VerticalOptions="Start" HorizontalOptions="Center" >
+                <Image Source="fastBackArrows.png" HorizontalOptions="Center" VerticalOptions="Start" Margin="0,0,10,0" WidthRequest="25" HeightRequest="25"/>
+                <Image Source="fastBack.png" HorizontalOptions="Center" VerticalOptions="Start" Margin="0,0,10,0" WidthRequest="25" HeightRequest="25"/>
+                <Image Source="socialNormal.png" HorizontalOptions="Center" VerticalOptions="Start" Margin="0,0,10,0" WidthRequest="25" HeightRequest="25"/>
+                <Image Source="fastForward.png" HorizontalOptions="Center" VerticalOptions="Start" Margin="0,0,10,0" WidthRequest="25" HeightRequest="25" />
+                <Image Source="fastForwardArrows.png" HorizontalOptions="Center" VerticalOptions="Start" Margin="0,0,10,0" WidthRequest="25" HeightRequest="25"/>
+            </StackLayout>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

@@ -53,3 +53,11 @@ D:\Documentos\Universidad\Semestres\X Semestre\Xamarin\TallerParcial\Parcial\Par
 D:\Documentos\Universidad\Semestres\X Semestre\Xamarin\TallerParcial\Parcial\Parcial\Parcial.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 D:\Documentos\Universidad\Semestres\X Semestre\Xamarin\TallerParcial\Parcial\Parcial\Parcial.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
 D:\Documentos\Universidad\Semestres\X Semestre\Xamarin\TallerParcial\Parcial\Parcial\Parcial.Android\obj\Debug\res\drawable\googleplus.png
+D:\Documentos\Universidad\Semestres\X Semestre\Xamarin\TallerParcial\Parcial\Parcial\Parcial.Android\obj\Debug\res\drawable\banner.png
+D:\Documentos\Universidad\Semestres\X Semestre\Xamarin\TallerParcial\Parcial\Parcial\Parcial.Android\obj\Debug\res\drawable\car.png
+D:\Documentos\Universidad\Semestres\X Semestre\Xamarin\TallerParcial\Parcial\Parcial\Parcial.Android\obj\Debug\res\drawable\coffee.png
+D:\Documentos\Universidad\Semestres\X Semestre\Xamarin\TallerParcial\Parcial\Parcial\Parcial.Android\obj\Debug\res\drawable\fastbackarrows.png
+D:\Documentos\Universidad\Semestres\X Semestre\Xamarin\TallerParcial\Parcial\Parcial\Parcial.Android\obj\Debug\res\drawable\fastback.png
+D:\Documentos\Universidad\Semestres\X Semestre\Xamarin\TallerParcial\Parcial\Parcial\Parcial.Android\obj\Debug\res\drawable\socialnormal.png
+D:\Documentos\Universidad\Semestres\X Semestre\Xamarin\TallerParcial\Parcial\Parcial\Parcial.Android\obj\Debug\res\drawable\fastforward.png
+D:\Documentos\Universidad\Semestres\X Semestre\Xamarin\TallerParcial\Parcial\Parcial\Parcial.Android\obj\Debug\res\drawable\fastforwardarrows.png

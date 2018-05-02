@@ -18,3 +18,4 @@ D:\Documentos\Universidad\Semestres\X Semestre\Xamarin\TallerParcial\Parcial\Par
 D:\Documentos\Universidad\Semestres\X Semestre\Xamarin\TallerParcial\Parcial\Parcial\Parcial\obj\Debug\Parcial.ConfirmationPass.xaml.g.cs
 D:\Documentos\Universidad\Semestres\X Semestre\Xamarin\TallerParcial\Parcial\Parcial\Parcial\obj\Debug\Parcial.dll
 D:\Documentos\Universidad\Semestres\X Semestre\Xamarin\TallerParcial\Parcial\Parcial\Parcial\obj\Debug\Parcial.pdb
+D:\Documentos\Universidad\Semestres\X Semestre\Xamarin\TallerParcial\Parcial\Parcial\Parcial\obj\Debug\Parcial.csprojResolveAssemblyReference.cache
