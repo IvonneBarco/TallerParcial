@@ -61,3 +61,6 @@ D:\Documentos\Universidad\Semestres\X Semestre\Xamarin\TallerParcial\Parcial\Par
 D:\Documentos\Universidad\Semestres\X Semestre\Xamarin\TallerParcial\Parcial\Parcial\Parcial.Android\obj\Debug\res\drawable\socialnormal.png
 D:\Documentos\Universidad\Semestres\X Semestre\Xamarin\TallerParcial\Parcial\Parcial\Parcial.Android\obj\Debug\res\drawable\fastforward.png
 D:\Documentos\Universidad\Semestres\X Semestre\Xamarin\TallerParcial\Parcial\Parcial\Parcial.Android\obj\Debug\res\drawable\fastforwardarrows.png
+D:\Documentos\Universidad\Semestres\X Semestre\Xamarin\TallerParcial\Parcial\Parcial\Parcial.Android\obj\Debug\res\drawable\list.png
+D:\Documentos\Universidad\Semestres\X Semestre\Xamarin\TallerParcial\Parcial\Parcial\Parcial.Android\obj\Debug\res\drawable\about.png
+D:\Documentos\Universidad\Semestres\X Semestre\Xamarin\TallerParcial\Parcial\Parcial\Parcial.Android\obj\Debug\res\drawable\cart.png

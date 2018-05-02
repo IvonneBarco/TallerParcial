@@ -13,7 +13,7 @@ namespace Parcial
         {
             InitializeComponent();
 
-            MainPage = new Parcial.ConfirmationPass();
+            MainPage = new Parcial.MainPage();
 
         }
 
