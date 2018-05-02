@@ -1,10 +1,22 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Parcial.RememberPasword">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin Forms!" />
+        <StackLayout Orientation="Vertical" Padding="10,12" Margin="10,0,10,0">
+            <StackLayout Orientation="Vertical"  Margin="0,80,0,0">
+                <Label Text="FORGOT PASSWORD" FontAttributes="Bold" FontSize="18" HorizontalOptions="CenterAndExpand" />
+            </StackLayout>
+
+            <StackLayout Orientation="Vertical">
+                <Label Text="E-mail" FontSize="18" HorizontalOptions="FillAndExpand" Margin="0,10,0,0" />
+                <Entry Placeholder="Write your email here" AbsoluteLayout.LayoutFlags="PositionProportional"/>
+            </StackLayout>
+
+            <StackLayout Orientation="Vertical">
+                <Button HorizontalOptions="FillAndExpand" Text="RESET PASSWORD" BackgroundColor="#CDDC39" Margin="0,0,10,0" />
+            </StackLayout>
+
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

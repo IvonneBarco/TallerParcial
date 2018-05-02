@@ -31,12 +31,6 @@
                 <Button HorizontalOptions="FillAndExpand" Text="I already have an account" BackgroundColor="#FFA000" Margin="0,0,10,0"  />
             </StackLayout>
 
-            <StackLayout Orientation="Horizontal" VerticalOptions="Start" HorizontalOptions="Center" >
-                <Image Source="facebook.png" HorizontalOptions="Center" VerticalOptions="Start" Margin="0,20,0,20" WidthRequest="40" HeightRequest="40"/>
-                <Image Source="googlePlus.png" HorizontalOptions="Center" VerticalOptions="Start" Margin="0,20,0,20" WidthRequest="40" HeightRequest="40"/>
-                <Image Source="twitter.png" HorizontalOptions="Center" VerticalOptions="Start" Margin="0,20,0,20" WidthRequest="40" HeightRequest="40"/>
-            </StackLayout>
-
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

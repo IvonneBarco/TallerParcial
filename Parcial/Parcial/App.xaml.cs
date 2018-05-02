@@ -13,7 +13,7 @@ namespace Parcial
         {
             InitializeComponent();
 
-            MainPage = new Parcial.Register();
+            MainPage = new Parcial.RememberPasword();
 
         }
 
